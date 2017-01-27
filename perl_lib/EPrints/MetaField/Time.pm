@@ -2,13 +2,9 @@
 =head1 NAME
 EPrints::MetaField::Time - date + time
 =head1 DESCRIPTION
-<<<<<<< HEAD
-Can store a time value upto seconds granularity. The time must be in UTC because this field can not store the time zone part.
-=======
 
 Can store a time value up to seconds granularity. The time must be in UTC because this field can not store the time zone part.
 
->>>>>>> upstream/3.3
 The value is set and returned as a string formatted as:
 	YYYY-MM-DD hh:mm:ss
 Where:
